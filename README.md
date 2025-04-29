@@ -27,3 +27,6 @@
 ```bash
 git clone https://github.com/rrrreddy/genai-text-summarization.git
 cd genai-text-summarization
+
+
+2. **Create and Activate Virtual Environment**
