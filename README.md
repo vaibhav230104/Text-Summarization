@@ -2,7 +2,6 @@
 
 **GenAI Text Summarizer** is a flexible and modular application that uses generative AI models to summarize text. Users can input content by typing, uploading documents (PDF, DOCX, TXT), or recording audio. The system transcribes and summarizes the input efficiently through a user-friendly web interface built with Gradio.
 
----
 
 ## 🚀 Features
 
@@ -11,7 +10,6 @@
 - **Audio Input**: Record or upload audio files to transcribe and summarize.
 - **Interactive Interface**: Built using **Gradio** for an intuitive experience.
 
----
 
 ## 📦 Installation
 
