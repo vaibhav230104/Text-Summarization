@@ -27,6 +27,38 @@
 ```bash
 git clone https://github.com/rrrreddy/genai-text-summarization.git
 cd genai-text-summarization
-
+```
 
 2. **Create and Activate Virtual Environment**
+```bash
+python -m venv .env
+source .env/bin/activate  # On Windows: .env\Scripts\activate
+```
+
+3. **Installation dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+4. **Install the package locally**
+```bash
+pip install -e .
+```
+
+##To run as a module :
+```bash
+python -m api.app
+```
+
+## 📝 Logging
+- Logs are saved at logs/app.log. Check this file for debugging and application status.
+
+## 🤝 Contributing
+- Contributions are welcome! Fork the repo and submit a pull request for improvements or fixes.
+
+## 🙏 Acknowledgments
+- Thanks to Hugging Face for their transformer models.
+- Thanks to Gradio for the clean and easy UI framework.
+
+
+
