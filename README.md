@@ -3,7 +3,7 @@
 **GenAI Text Summarizer** is a flexible and modular application that uses generative AI models to summarize text. Users can input content by typing, uploading documents (PDF, DOCX, TXT), or recording audio. The system transcribes and summarizes the input efficiently through a user-friendly web interface built with Gradio.
 
 
-## 🚀 Features
+## Features
 
 - **Direct Text Input**: Enter text manually for summarization.
 - **File Upload**: Upload `.txt`, `.pdf`, or `.docx` files.
@@ -11,7 +11,7 @@
 - **Interactive Interface**: Built using **Gradio** for an intuitive experience.
 
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
@@ -48,13 +48,13 @@ pip install -e .
 python -m api.app
 ```
 
-## 📝 Logging
+## Logging
 - Logs are saved at logs/app.log. Check this file for debugging and application status.
 
-## 🤝 Contributing
+## Contributing
 - Contributions are welcome! Fork the repo and submit a pull request for improvements or fixes.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 - Thanks to Hugging Face for their transformer models.
 - Thanks to Gradio for the clean and easy UI framework.
 
